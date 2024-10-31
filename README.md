@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there 👋, my name is Khaled Elsayed and I'm Software engineering student
+- 🔭 I have worked on Html/Css/Bootstrap/Java
+- 🌱 I’m currently learning Python
+- Languages that i know: Arabic(Native) - English(B1-B2) - Turkish(B1)
+- Languages that i learn currently: German(A1)
+- Contact me: E-mail khaled.elsayed2608@gmail.com
 
 <!--
+
 **khaledelsayed2003/khaledelsayed2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
