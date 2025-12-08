@@ -38,4 +38,10 @@
 ---
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg"
+       alt="GitHub contribution snake animation" />
+</p>
+
+
 
