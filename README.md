@@ -1,23 +1,41 @@
-## Hi there 👋, my name is Khaled Elsayed and I'm Software engineering student
-- 🔭 I have worked on Html/Css/Bootstrap/Java
-- 🌱 I’m currently learning Python
-- Languages that i know: Arabic(Native) - English(B1-B2) - Turkish(B1)
-- Languages that I’m currently learning: German(A1)
-- Contact me: E-mail khaled.elsayed2206@gmail.com
+<h1 align="center">Hi 👋, I'm Khaled Elsayed</h1>
+<h3 align="center">Software Engineering Student</h3>
+
+---
+
+### 🌟 About Me
+
+- 🐍 Currently improving my **Python** skills  
+- 💡 Next: learning **React & Django full-stack**  
+- 🧠 Interested in AI, Cloud & Web Development  
+- 🌍 Based in Istanbul, Türkiye  
+
+### 🗣️ Languages
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — B2  
+- 🇹🇷 Turkish — B2  
+- 🇩🇪 German — A1
+
+---
+### 📫 Contact
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:khaled.elsayed2206@gmail.com">
+        <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/khaledelsayed2003/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-<!--
+---
 
-**khaledelsayed2003/khaledelsayed2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
