@@ -52,13 +52,23 @@
              width="48" height="48" alt="Bootstrap" /><br/>
         Bootstrap
       </td>
-    </tr>
-    <tr>
-      </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
              width="48" height="48" alt="Java" /><br/>
         Java
+      </td>
+    </tr>
+    <tr>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
+             width="48" height="48" alt="SQLAlchemy" /><br/>
+        SQLAlchemy
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"
+             width="48" height="48" alt="SQLite" /><br/>
+        SQLite
       </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
