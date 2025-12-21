@@ -28,8 +28,8 @@
         Python
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg"
-          width="48" height="48" alt="Flask" /><br/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+             width="48" height="48" alt="Flask" /><br/>
         Flask
       </td>
       <td align="center" width="96">
