@@ -28,6 +28,11 @@
         Python
       </td>
       <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+             width="48" height="48" alt="Flask" /><br/>
+        Flask
+      </td>
+      <td align="center" width="96">
         <img src="https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"
              width="48" height="48" alt="JavaScript" /><br/>
         JavaScript
